@@ -4,7 +4,7 @@
 
 Yazılım otomasyon ve sistem yönetimi alanında tutkulu bir geliştirici ve eğitimci. Visual Basic, VBA, AutoLISP ve AutoHotkey kullanarak verimli çözümler geliştiriyorum. Emekli teknik öğretmenim.
 
-Kodlama sürecinde problem çözme ve pratik çözümler geliştirmeyi seviyorum. Öğrenmeye ve paylaşmaya inanıyorum! 💻
+Kodlama sürecinde problem çözme ve pratik çözümler geliştirmeyi seviyorum 💻
 
 👉 [Hakkımda detaylı bilgi](https://mesutakcan.blogspot.com/p/hakkimda.html) | [AkcanSoft Blog ](https://akcansoft.blogspot.com) | [Mesut Akcan Blog ](https://mesutakcan.blogspot.com) | [Youtube kanalım](https://www.youtube.com/mesutakcan)
 
