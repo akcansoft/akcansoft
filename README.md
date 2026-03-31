@@ -1,12 +1,12 @@
 # Merhaba! 👋
 
-**Akcan Soft** - Amatör Yazılımcı | Otomasyon Uzmanı | Bilgisayar Formatör Öğretmeni
+**AkcanSoft** - Yazılım Geliştirici | Otomasyon Uzmanı | Bilgisayar Formatör Öğretmeni
 
 ---
 
 ## 🚀 Hakkımda
 
-Yazılım otomasyon ve sistem yönetimi alanında tutkulu bir geliştici ve eğitimci. Visual Basic, VBA, AutoLISP ve AutoHotkey kullanarak verimli çözümler geliştiriyor, aynı zamanda bilgisayar formatör öğretmenliği yapıyorum. 
+Yazılım otomasyon ve sistem yönetimi alanında tutkulu bir geliştirici ve eğitimci. Visual Basic, VBA, AutoLISP ve AutoHotkey kullanarak verimli çözümler geliştiriyor, aynı zamanda bilgisayar formatör öğretmenliği yapıyorum.
 
 Kodlama sürecinde problem çözme ve pratik çözümler geliştirmeyi seviyorum. Öğrenmeye ve paylaşmaya inanıyorum! 💻
 
@@ -16,8 +16,8 @@ Kodlama sürecinde problem çözme ve pratik çözümler geliştirmeyi seviyorum
 
 ### Programlama Dilleri
 - **Visual Basic** - Masaüstü uygulamaları ve otomasyon
-- **VBA (Visual Basic for Applications)** - Excel, Access ve Office otomasyon
-- **AutoLISP** - AutoCAD makroları ve özelleştirmeleri
+- **VBA (Visual Basic for Applications)** - Excel, Access, Office programları ve AutoCAD otomasyonu
+- **AutoLISP** - AutoCAD otomasyonu ve özelleştirmeleri
 - **AutoHotkey** - Windows otomasyon ve hotkey yönetimi
 
 ### Sistem & Yönetim
@@ -30,23 +30,10 @@ Kodlama sürecinde problem çözme ve pratik çözümler geliştirmeyi seviyorum
 ## 🎯 Neler Yapıyorum?
 
 - 🔧 **Otomasyon Çözümleri** - İşleri otomatize etmek için makrolar ve scriptler yazıyorum
-- 📊 **Excel VBA Projeleri** - Veri işleme ve raporlama uygulamaları geliştiriyorum
-- 🏗️ **AutoCAD Kustomizasyonu** - İşyeri için özel AutoLISP çözümleri oluşturuyorum
-- 🎓 **Eğitim** - Bilgisayar formatlanması ve sistem yönetimi öğretiyorum
+- 📊 **Excel ve AutoCAD VBA Projeleri** - Veri işleme ve raporlama uygulamaları geliştiriyorum
+- 🏗️ **AutoCAD Otomasyonu** - İşyeri için özel AutoLISP çözümleri oluşturuyorum
+- 🎓 **Eğitim** - Bilgisayar, AutoCAD, Solidworks, Yazılım eğitimleri veriyorum.
 - 🤖 **Windows Otomasyon** - AutoHotkey ile sistem görevlerini otomatize ediyorum
-
----
-
-## ⭐ Öne Çıkan Projelerim
-
-Projelerim henüz GitHubta yayınlanmamış olabilir, ancak şu alanlarda çalışıyorum:
-
-| Alan | Proje Türü |
-|------|-----------|
-| Excel | VBA ile veri analiz ve raporlama araçları |
-| AutoCAD | Çizimleri otomatize eden AutoLISP scriptleri |
-| Windows | Günlük görevleri otomatize eden AutoHotkey scriptleri |
-| Sistem | Bilgisayar yapılandırması ve optimizasyon rehberleri |
 
 ---
 
@@ -70,24 +57,25 @@ Projelerim henüz GitHubta yayınlanmamış olabilir, ancak şu alanlarda çalı
 
 Otomasyon soruları, proje danışmanlığı veya eğitim konuları hakkında bana ulaşabilirsiniz:
 
-- 📧 **E-posta:** [email@example.com](mailto:email@example.com)
-- 💼 **LinkedIn:** [LinkedIn Profilim](https://linkedin.com/in/akcansoft)
-- 🌐 **Web:** [Kişisel Sitelerim](https://yourwebsite.com)
-- 🐦 **Twitter:** [@akcansoft](https://twitter.com/akcansoft)
+- 📧 **E-posta:** [makcan@gmail.com](mailto:makcan@gmail.com)
+- 💼 **LinkedIn:** [LinkedIn Profilim](https://linkedin.com/in/mesutakcan)
+- 🌐 **Web:** Kişisel Sitelerim (https://akcansoft.blogspot.com) - https://mesutakcan.blogspot.com
+- 𝕏 **X:** [@mesutakcan](https://x.com/mesutakcan)
 
 ---
 
 ## 📝 Bilgiler & İpuçları
 
 Bu platformda paylaşacağım:
+
 - ✍️ Otomasyon ve scripting ipuçları
-- 📖 Bilgisayar formatı öğretim materyalleri
+- 📖 Sistem kurulum adımları ve öğretici içerikler
 - 🎯 Pratik kod örnekleri ve çözümler
 - 💡 Sistem yönetimi rehberleri
 
 ---
 
-## 🤝 Katkıda Bulunmak
+## 🤝 Katkıda Bulunma
 
 Eğer otomasyon, sistem yönetimi veya eğitim konularında benimle işbirliği yapmak isterseniz, lütfen iletişime geçin!
 
@@ -97,17 +85,15 @@ Açık fikirli, yardımsever ve her zaman yeni fikirleri dinlemeye açığım. �
 
 ## 📊 İstatistiklerim
 
-![akcansoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=akcansoft&show_icons=true&theme=nord)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akcansoft&layout=compact&theme=nord)
+![GitHub Streak](https://streak-stats.demolab.com?user=akcansoft&theme=nord)
 
 ---
 
 <div align="center">
 
-**Yazılım otomasyon ile zamanınızı tasarruf edin! ⏱️**
+<b>Yazılım otomasyon ile zamanınızı tasarruf edin! ⏱️</b>
 
-*Amatör yazılımcı, öğretmen, otomasyon tutkunu* 💻
+<i>Yazılım geliştirici, öğretmen, otomasyon tutkunu</i> 💻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akcansoft&label=Profile%20Views&color=0e75b6&style=flat)
 
