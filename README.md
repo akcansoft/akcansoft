@@ -9,5 +9,3 @@ Kodlama sürecinde problem çözme ve pratik çözümler geliştirmeyi seviyorum
 👉 [Hakkımda detaylı bilgi](https://mesutakcan.blogspot.com/p/hakkimda.html)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akcansoft&label=Profile%20Views&color=0e75b6&style=flat)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=akcansoft&theme=nord)
