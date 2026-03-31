@@ -1,14 +1,16 @@
-# Merhaba! 👋
+# Merhaba! 🌍 👋
 
-**AkcanSoft** - Yazılım Geliştirici | Otomasyon Uzmanı | Bilgisayar Formatör Öğretmeni
+**AkcanSoft** - Yazılım Geliştirici | Otomasyon Uzmanı | Teknik Öğretmen | İktisat | Fotoğrafçılık ve kameramanlık.
 
 ---
 
 ## 🚀 Hakkımda
 
-Yazılım otomasyon ve sistem yönetimi alanında tutkulu bir geliştirici ve eğitimci. Visual Basic, VBA, AutoLISP ve AutoHotkey kullanarak verimli çözümler geliştiriyor, aynı zamanda bilgisayar formatör öğretmenliği yapıyorum.
+Yazılım otomasyon ve sistem yönetimi alanında tutkulu bir geliştirici ve eğitimci. Visual Basic, VBA, AutoLISP ve AutoHotkey kullanarak verimli çözümler geliştiriyorum. Emekli teknik öğretmenim.
 
 Kodlama sürecinde problem çözme ve pratik çözümler geliştirmeyi seviyorum. Öğrenmeye ve paylaşmaya inanıyorum! 💻
+
+👉 [Hakkımda](https://mesutakcan.blogspot.com/p/hakkimda.html)
 
 ---
 
@@ -58,9 +60,10 @@ Kodlama sürecinde problem çözme ve pratik çözümler geliştirmeyi seviyorum
 Otomasyon soruları, proje danışmanlığı veya eğitim konuları hakkında bana ulaşabilirsiniz:
 
 - 📧 **E-posta:** [makcan@gmail.com](mailto:makcan@gmail.com)
-- 💼 **LinkedIn:** [LinkedIn Profilim](https://linkedin.com/in/mesutakcan)
-- 🌐 **Web:** Kişisel Sitelerim (https://akcansoft.blogspot.com) - https://mesutakcan.blogspot.com
+- 💼 **LinkedIn:** [@mesutakcan](https://linkedin.com/in/mesutakcan)
+- 🌐 **Web:** Kişisel Sitelerim https://akcansoft.blogspot.com - https://mesutakcan.blogspot.com
 - 𝕏 **X:** [@mesutakcan](https://x.com/mesutakcan)
+- 🌐 **Youtube** [@mesutakcan]https://youtube.com/mesutakcan
 
 ---
 
