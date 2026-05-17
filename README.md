@@ -9,3 +9,5 @@ Kodlama sürecinde problem çözme ve pratik çözümler geliştirmeyi seviyorum
 👉 [Hakkımda detaylı bilgi](https://mesutakcan.blogspot.com/p/hakkimda.html) | [AkcanSoft Blog ](https://akcansoft.blogspot.com) | [Mesut Akcan Blog ](https://mesutakcan.blogspot.com) | [Youtube kanalım](https://www.youtube.com/mesutakcan)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akcansoft&label=Profile%20Views&color=0e75b6&style=flat)
+
+# Bu hesaptaki yazılımlarımı https://github.com/mesutakcan hesabıma taşıdım.
